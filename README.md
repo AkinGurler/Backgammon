@@ -14,12 +14,12 @@ Backgammon game that can be saved and continued with file operations
 ![2](https://user-images.githubusercontent.com/99674716/185898962-a5d61b02-44eb-4289-9053-642c6cd96973.png)
 
 ## Used Technologies
-
-* Java
+* Java 
+![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)
 ## Installation 
 * Download The files Open with Java IDE and run
 
-![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)
+
 
 ## Gainz
 * Array Operation

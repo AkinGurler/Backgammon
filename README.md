@@ -18,7 +18,7 @@ Backgammon game that can be saved and continued with file operations
 * Java
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)
 
 ## Gainz
 * Array Operation

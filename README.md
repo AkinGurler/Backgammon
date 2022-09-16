@@ -6,7 +6,7 @@ Created at 2020
 * Save the game
 * Continue the saved game
 * Check the Dice history from dicehistory file
-* Check the logs of the game
+* Can Check logs of the game
 
 Backgammon game that can be saved and continued with file operations
 ![Adsız](https://user-images.githubusercontent.com/99674716/185898566-aa5a3b83-ec18-4af4-b5ea-866bab219696.png)
